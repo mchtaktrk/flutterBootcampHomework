@@ -4,7 +4,7 @@ Techcareer Flutter Bootcamp Homework (Design UI).
 
 ## Tasarlanmak istenen UI
 
-<img src="https://user-images.githubusercontent.com/9364520/186408980-98485e19-77e4-4760-a5eb-fa7359c4d90e.jpg" alt="drawing" width="%50"/>
+<img src="https://user-images.githubusercontent.com/9364520/186408980-98485e19-77e4-4760-a5eb-fa7359c4d90e.jpg" alt="drawing" width="%50" height="450"/>
 
 ## Geliştirilen UI
 
