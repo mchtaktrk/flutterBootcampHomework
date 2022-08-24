@@ -1,16 +1,11 @@
 # odev3
 
-A new Flutter project.
+Techcareer Flutter Bootcamp Homework (Design UI).
 
-## Getting Started
+## Tasarlanmak istenen UI
 
-This project is a starting point for a Flutter application.
+[Örnek Tasarım](https://user-images.githubusercontent.com/9364520/186408980-98485e19-77e4-4760-a5eb-fa7359c4d90e.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## Geliştirilen UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Geliştirilen Tasarım](https://user-images.githubusercontent.com/9364520/186409121-809d4be9-f950-4d56-8b26-44cfdedb05e0.png)
